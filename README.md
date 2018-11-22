@@ -35,8 +35,8 @@ Do not include the quotes when you enter them on the command line.
 
 1. Clone this repository
 2. Change directory into this repository
-3. Run 'go get github.com/plouc/go-gitlab-client'
-4. Run 'go get github.com/gogits/go-gogs-client'
+3. Run 'go get github.com/plouc/go-gitlab-client/gitlab'
+4. Run 'go get github.com/gogs/go-gogs-client'
 5. Run 'go build'
 6. Edit config.json
 	- Modify the Gitlab API URL to point to your server
